@@ -1,4 +1,4 @@
 # BasicPythonTest
 BasicPythonUse
 
-![socialify](https://socialify.git.ci/wei/socialify/image?description=1&font=Raleway&issues=1&language=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Light)
+![BasicPythonTest](https://socialify.git.ci/Harris-H/BasicPythonTest/image?font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
